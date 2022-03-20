@@ -1,3 +1,7 @@
+# Formik Task(Screenshot is attached below):
+
+![Capture 2](https://user-images.githubusercontent.com/92391756/159185237-1700dab5-04d6-41cc-888c-82c616416b85.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
